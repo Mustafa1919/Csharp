@@ -1,0 +1,11 @@
+C:\Users\TED\Documents\1 den n'ye kadar ayıların toplamı\1'den N'e kadar toplam\1'den N'e kadar toplam\bin\Debug\1'den N'e kadar toplam.exe
+C:\Users\TED\Documents\1 den n'ye kadar ayıların toplamı\1'den N'e kadar toplam\1'den N'e kadar toplam\bin\Debug\1'den N'e kadar toplam.pdb
+C:\Users\TED\Documents\1 den n'ye kadar ayıların toplamı\1'den N'e kadar toplam\1'den N'e kadar toplam\obj\x86\Debug\_1_den_N_e_kadar_toplam.Form1.resources
+C:\Users\TED\Documents\1 den n'ye kadar ayıların toplamı\1'den N'e kadar toplam\1'den N'e kadar toplam\obj\x86\Debug\_1_den_N_e_kadar_toplam.Form2.resources
+C:\Users\TED\Documents\1 den n'ye kadar ayıların toplamı\1'den N'e kadar toplam\1'den N'e kadar toplam\obj\x86\Debug\_1_den_N_e_kadar_toplam.Form3.resources
+C:\Users\TED\Documents\1 den n'ye kadar ayıların toplamı\1'den N'e kadar toplam\1'den N'e kadar toplam\obj\x86\Debug\_1_den_N_e_kadar_toplam.Form4.resources
+C:\Users\TED\Documents\1 den n'ye kadar ayıların toplamı\1'den N'e kadar toplam\1'den N'e kadar toplam\obj\x86\Debug\_1_den_N_e_kadar_toplam.Properties.Resources.resources
+C:\Users\TED\Documents\1 den n'ye kadar ayıların toplamı\1'den N'e kadar toplam\1'den N'e kadar toplam\obj\x86\Debug\1'den N'e kadar toplam.csproj.GenerateResource.Cache
+C:\Users\TED\Documents\1 den n'ye kadar ayıların toplamı\1'den N'e kadar toplam\1'den N'e kadar toplam\obj\x86\Debug\1'den N'e kadar toplam.exe
+C:\Users\TED\Documents\1 den n'ye kadar ayıların toplamı\1'den N'e kadar toplam\1'den N'e kadar toplam\obj\x86\Debug\1'den N'e kadar toplam.pdb
+C:\Users\TED\Documents\1 den n'ye kadar ayıların toplamı\1'den N'e kadar toplam\1'den N'e kadar toplam\obj\x86\Debug\1'den N'e kadar toplam.csprojResolveAssemblyReference.cache
