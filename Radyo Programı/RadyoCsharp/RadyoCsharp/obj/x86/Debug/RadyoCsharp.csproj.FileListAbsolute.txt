@@ -1,0 +1,28 @@
+C:\Users\TED\Documents\Radyo Programı\RadyoCsharp\RadyoCsharp\bin\Debug\RadyoCsharp.exe
+C:\Users\TED\Documents\Radyo Programı\RadyoCsharp\RadyoCsharp\bin\Debug\RadyoCsharp.pdb
+C:\Users\TED\Documents\Radyo Programı\RadyoCsharp\RadyoCsharp\bin\Debug\Interop.WMPLib.dll
+C:\Users\TED\Documents\Radyo Programı\RadyoCsharp\RadyoCsharp\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\TED\Documents\Radyo Programı\RadyoCsharp\RadyoCsharp\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\TED\Documents\Radyo Programı\RadyoCsharp\RadyoCsharp\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\TED\Documents\Radyo Programı\RadyoCsharp\RadyoCsharp\obj\x86\Debug\RadyoCsharp.csproj.ResolveComReference.cache
+C:\Users\TED\Documents\Radyo Programı\RadyoCsharp\RadyoCsharp\obj\x86\Debug\RadyoCsharp.Form1.resources
+C:\Users\TED\Documents\Radyo Programı\RadyoCsharp\RadyoCsharp\obj\x86\Debug\RadyoCsharp.Form2.resources
+C:\Users\TED\Documents\Radyo Programı\RadyoCsharp\RadyoCsharp\obj\x86\Debug\RadyoCsharp.Properties.Resources.resources
+C:\Users\TED\Documents\Radyo Programı\RadyoCsharp\RadyoCsharp\obj\x86\Debug\RadyoCsharp.csproj.GenerateResource.Cache
+C:\Users\TED\Documents\Radyo Programı\RadyoCsharp\RadyoCsharp\obj\x86\Debug\RadyoCsharp.exe
+C:\Users\TED\Documents\Radyo Programı\RadyoCsharp\RadyoCsharp\obj\x86\Debug\RadyoCsharp.pdb
+C:\Users\TED\Documents\Radyo Programı\RadyoCsharp\RadyoCsharp\obj\x86\Debug\RadyoCsharp.Form3.resources
+C:\Users\Now\Documents\C# dili projeler\Radyo Programı\RadyoCsharp\RadyoCsharp\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Now\Documents\C# dili projeler\Radyo Programı\RadyoCsharp\RadyoCsharp\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Now\Documents\C# dili projeler\Radyo Programı\RadyoCsharp\RadyoCsharp\obj\x86\Debug\RadyoCsharp.csproj.ResolveComReference.cache
+C:\Users\Now\Documents\C# dili projeler\Radyo Programı\RadyoCsharp\RadyoCsharp\obj\x86\Debug\RadyoCsharp.exe
+C:\Users\Now\Documents\C# dili projeler\Radyo Programı\RadyoCsharp\RadyoCsharp\obj\x86\Debug\RadyoCsharp.pdb
+C:\Users\Now\Documents\C# dili projeler\Radyo Programı\RadyoCsharp\RadyoCsharp\bin\Debug\RadyoCsharp.exe
+C:\Users\Now\Documents\C# dili projeler\Radyo Programı\RadyoCsharp\RadyoCsharp\bin\Debug\RadyoCsharp.pdb
+C:\Users\Now\Documents\C# dili projeler\Radyo Programı\RadyoCsharp\RadyoCsharp\bin\Debug\Interop.WMPLib.dll
+C:\Users\Now\Documents\C# dili projeler\Radyo Programı\RadyoCsharp\RadyoCsharp\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Now\Documents\C# dili projeler\Radyo Programı\RadyoCsharp\RadyoCsharp\obj\x86\Debug\RadyoCsharp.Form1.resources
+C:\Users\Now\Documents\C# dili projeler\Radyo Programı\RadyoCsharp\RadyoCsharp\obj\x86\Debug\RadyoCsharp.Form2.resources
+C:\Users\Now\Documents\C# dili projeler\Radyo Programı\RadyoCsharp\RadyoCsharp\obj\x86\Debug\RadyoCsharp.Form3.resources
+C:\Users\Now\Documents\C# dili projeler\Radyo Programı\RadyoCsharp\RadyoCsharp\obj\x86\Debug\RadyoCsharp.Properties.Resources.resources
+C:\Users\Now\Documents\C# dili projeler\Radyo Programı\RadyoCsharp\RadyoCsharp\obj\x86\Debug\RadyoCsharp.csproj.GenerateResource.Cache
