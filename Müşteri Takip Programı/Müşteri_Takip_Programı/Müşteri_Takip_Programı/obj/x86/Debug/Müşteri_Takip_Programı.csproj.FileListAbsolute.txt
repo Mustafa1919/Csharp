@@ -1,0 +1,13 @@
+C:\Users\TED\Desktop\Müşteri Takip Programı\Müşteri_Takip_Programı\Müşteri_Takip_Programı\bin\Debug\Müşteri_Takip_Programı.exe
+C:\Users\TED\Desktop\Müşteri Takip Programı\Müşteri_Takip_Programı\Müşteri_Takip_Programı\bin\Debug\Müşteri_Takip_Programı.pdb
+C:\Users\TED\Desktop\Müşteri Takip Programı\Müşteri_Takip_Programı\Müşteri_Takip_Programı\obj\x86\Debug\Müşteri_Takip_Programı.Properties.Resources.resources
+C:\Users\TED\Desktop\Müşteri Takip Programı\Müşteri_Takip_Programı\Müşteri_Takip_Programı\obj\x86\Debug\Müşteri_Takip_Programı.csproj.GenerateResource.Cache
+C:\Users\TED\Desktop\Müşteri Takip Programı\Müşteri_Takip_Programı\Müşteri_Takip_Programı\obj\x86\Debug\Müşteri_Takip_Programı.exe
+C:\Users\TED\Desktop\Müşteri Takip Programı\Müşteri_Takip_Programı\Müşteri_Takip_Programı\obj\x86\Debug\Müşteri_Takip_Programı.pdb
+C:\Users\TED\Desktop\Müşteri Takip Programı\Müşteri_Takip_Programı\Müşteri_Takip_Programı\obj\x86\Debug\Müşteri_Takip_Programı.frm_anasayfa.resources
+C:\Users\TED\Desktop\Müşteri Takip Programı\Müşteri_Takip_Programı\Müşteri_Takip_Programı\obj\x86\Debug\Müşteri_Takip_Programı.frm_yenikayit.resources
+C:\Users\TED\Desktop\Müşteri Takip Programı\Müşteri_Takip_Programı\Müşteri_Takip_Programı\obj\x86\Debug\Müşteri_Takip_Programı.frm_borc.resources
+C:\Users\TED\Desktop\Müşteri Takip Programı\Müşteri_Takip_Programı\Müşteri_Takip_Programı\obj\x86\Debug\Müşteri_Takip_Programı.csprojResolveAssemblyReference.cache
+C:\Users\TED\Desktop\Müşteri Takip Programı\Müşteri_Takip_Programı\Müşteri_Takip_Programı\obj\x86\Debug\Müşteri_Takip_Programı.frm_satis.resources
+C:\Users\TED\Desktop\Müşteri Takip Programı\Müşteri_Takip_Programı\Müşteri_Takip_Programı\obj\x86\Debug\Müşteri_Takip_Programı.frm_sorgula.resources
+C:\Users\TED\Desktop\Müşteri Takip Programı\Müşteri_Takip_Programı\Müşteri_Takip_Programı\obj\x86\Debug\Müşteri_Takip_Programı.frm_stok.resources
