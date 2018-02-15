@@ -1,0 +1,15 @@
+C:\Users\TED\Documents\Media Player\CsharpRandomLig\CsharpRandomLig\bin\Debug\CsharpRandomLig.exe
+C:\Users\TED\Documents\Media Player\CsharpRandomLig\CsharpRandomLig\bin\Debug\CsharpRandomLig.pdb
+C:\Users\TED\Documents\Media Player\CsharpRandomLig\CsharpRandomLig\obj\x86\Debug\CsharpRandomLig.Form1.resources
+C:\Users\TED\Documents\Media Player\CsharpRandomLig\CsharpRandomLig\obj\x86\Debug\CsharpRandomLig.Properties.Resources.resources
+C:\Users\TED\Documents\Media Player\CsharpRandomLig\CsharpRandomLig\obj\x86\Debug\CsharpRandomLig.csproj.GenerateResource.Cache
+C:\Users\TED\Documents\Media Player\CsharpRandomLig\CsharpRandomLig\obj\x86\Debug\CsharpRandomLig.exe
+C:\Users\TED\Documents\Media Player\CsharpRandomLig\CsharpRandomLig\obj\x86\Debug\CsharpRandomLig.pdb
+C:\Users\TED\Documents\RandomLig\CsharpRandomLig\CsharpRandomLig\obj\x86\Debug\CsharpRandomLig.exe
+C:\Users\TED\Documents\RandomLig\CsharpRandomLig\CsharpRandomLig\obj\x86\Debug\CsharpRandomLig.pdb
+C:\Users\TED\Documents\RandomLig\CsharpRandomLig\CsharpRandomLig\obj\x86\Debug\CsharpRandomLig.csprojResolveAssemblyReference.cache
+C:\Users\TED\Documents\RandomLig\CsharpRandomLig\CsharpRandomLig\obj\x86\Debug\CsharpRandomLig.Form1.resources
+C:\Users\TED\Documents\RandomLig\CsharpRandomLig\CsharpRandomLig\obj\x86\Debug\CsharpRandomLig.Properties.Resources.resources
+C:\Users\TED\Documents\RandomLig\CsharpRandomLig\CsharpRandomLig\obj\x86\Debug\CsharpRandomLig.csproj.GenerateResource.Cache
+C:\Users\TED\Documents\RandomLig\CsharpRandomLig\CsharpRandomLig\bin\Debug\CsharpRandomLig.exe
+C:\Users\TED\Documents\RandomLig\CsharpRandomLig\CsharpRandomLig\bin\Debug\CsharpRandomLig.pdb
