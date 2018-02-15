@@ -1,0 +1,8 @@
+C:\Users\TED\Documents\Kendi Notumu Hesapla\Not Hesapla\Not Hesapla\obj\x86\Debug\Not_Hesapla.Form1.resources
+C:\Users\TED\Documents\Kendi Notumu Hesapla\Not Hesapla\Not Hesapla\obj\x86\Debug\Not_Hesapla.Properties.Resources.resources
+C:\Users\TED\Documents\Kendi Notumu Hesapla\Not Hesapla\Not Hesapla\obj\x86\Debug\Not Hesapla.csproj.GenerateResource.Cache
+C:\Users\TED\Documents\Kendi Notumu Hesapla\Not Hesapla\Not Hesapla\bin\Debug\Not Hesapla.exe
+C:\Users\TED\Documents\Kendi Notumu Hesapla\Not Hesapla\Not Hesapla\bin\Debug\Not Hesapla.pdb
+C:\Users\TED\Documents\Kendi Notumu Hesapla\Not Hesapla\Not Hesapla\obj\x86\Debug\Not Hesapla.exe
+C:\Users\TED\Documents\Kendi Notumu Hesapla\Not Hesapla\Not Hesapla\obj\x86\Debug\Not Hesapla.pdb
+C:\Users\TED\Documents\Kendi Notumu Hesapla\Not Hesapla\Not Hesapla\obj\x86\Debug\Not Hesapla.csprojResolveAssemblyReference.cache
