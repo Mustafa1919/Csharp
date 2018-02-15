@@ -1,0 +1,16 @@
+c:\users\ted\documents\visual studio 2010\Projects\Hesap Makinası\Hesap Makinası\bin\Debug\Hesap Makinası.exe
+c:\users\ted\documents\visual studio 2010\Projects\Hesap Makinası\Hesap Makinası\bin\Debug\Hesap Makinası.pdb
+c:\users\ted\documents\visual studio 2010\Projects\Hesap Makinası\Hesap Makinası\obj\x86\Debug\Hesap_Makinası.Form1.resources
+c:\users\ted\documents\visual studio 2010\Projects\Hesap Makinası\Hesap Makinası\obj\x86\Debug\Hesap_Makinası.Properties.Resources.resources
+c:\users\ted\documents\visual studio 2010\Projects\Hesap Makinası\Hesap Makinası\obj\x86\Debug\Hesap Makinası.csproj.GenerateResource.Cache
+c:\users\ted\documents\visual studio 2010\Projects\Hesap Makinası\Hesap Makinası\obj\x86\Debug\Hesap Makinası.exe
+c:\users\ted\documents\visual studio 2010\Projects\Hesap Makinası\Hesap Makinası\obj\x86\Debug\Hesap Makinası.pdb
+C:\Users\Ted\Documents\Visual Studio 2010\Projects\Hesap Makinası\Hesap Makinası\obj\x86\Debug\Hesap Makinası.csprojResolveAssemblyReference.cache
+C:\Users\TED\Documents\Hesap Makinası\Hesap Makinası\obj\x86\Debug\Hesap Makinası.exe
+C:\Users\TED\Documents\Hesap Makinası\Hesap Makinası\obj\x86\Debug\Hesap Makinası.pdb
+C:\Users\TED\Documents\Hesap Makinası\Hesap Makinası\obj\x86\Debug\Hesap Makinası.csprojResolveAssemblyReference.cache
+C:\Users\TED\Documents\Hesap Makinası\Hesap Makinası\obj\x86\Debug\Hesap_Makinası.Form1.resources
+C:\Users\TED\Documents\Hesap Makinası\Hesap Makinası\obj\x86\Debug\Hesap_Makinası.Properties.Resources.resources
+C:\Users\TED\Documents\Hesap Makinası\Hesap Makinası\obj\x86\Debug\Hesap Makinası.csproj.GenerateResource.Cache
+C:\Users\TED\Documents\Hesap Makinası\Hesap Makinası\bin\Debug\Hesap Makinası.exe
+C:\Users\TED\Documents\Hesap Makinası\Hesap Makinası\bin\Debug\Hesap Makinası.pdb
