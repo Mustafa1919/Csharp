@@ -1,0 +1,7 @@
+C:\Users\TED\Documents\Sıkıysa Yakala\SıkıysaYakala\SıkıysaYakala\bin\Debug\SıkıysaYakala.exe
+C:\Users\TED\Documents\Sıkıysa Yakala\SıkıysaYakala\SıkıysaYakala\bin\Debug\SıkıysaYakala.pdb
+C:\Users\TED\Documents\Sıkıysa Yakala\SıkıysaYakala\SıkıysaYakala\obj\x86\Debug\SıkıysaYakala.Form1.resources
+C:\Users\TED\Documents\Sıkıysa Yakala\SıkıysaYakala\SıkıysaYakala\obj\x86\Debug\SıkıysaYakala.Properties.Resources.resources
+C:\Users\TED\Documents\Sıkıysa Yakala\SıkıysaYakala\SıkıysaYakala\obj\x86\Debug\SıkıysaYakala.csproj.GenerateResource.Cache
+C:\Users\TED\Documents\Sıkıysa Yakala\SıkıysaYakala\SıkıysaYakala\obj\x86\Debug\SıkıysaYakala.exe
+C:\Users\TED\Documents\Sıkıysa Yakala\SıkıysaYakala\SıkıysaYakala\obj\x86\Debug\SıkıysaYakala.pdb
