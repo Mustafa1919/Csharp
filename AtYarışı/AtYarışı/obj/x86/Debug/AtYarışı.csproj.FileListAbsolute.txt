@@ -1,0 +1,10 @@
+C:\Users\TED\Documents\At Yarışı Oyunu\AtYarışı\AtYarışı\bin\Debug\AtYarışı.exe
+C:\Users\TED\Documents\At Yarışı Oyunu\AtYarışı\AtYarışı\bin\Debug\AtYarışı.pdb
+C:\Users\TED\Documents\At Yarışı Oyunu\AtYarışı\AtYarışı\obj\x86\Debug\AtYarışı.Form1.resources
+C:\Users\TED\Documents\At Yarışı Oyunu\AtYarışı\AtYarışı\obj\x86\Debug\AtYarışı.Properties.Resources.resources
+C:\Users\TED\Documents\At Yarışı Oyunu\AtYarışı\AtYarışı\obj\x86\Debug\AtYarışı.csproj.GenerateResource.Cache
+C:\Users\TED\Documents\At Yarışı Oyunu\AtYarışı\AtYarışı\obj\x86\Debug\AtYarışı.exe
+C:\Users\TED\Documents\At Yarışı Oyunu\AtYarışı\AtYarışı\obj\x86\Debug\AtYarışı.pdb
+C:\Users\TED\Documents\At Yarışı Oyunu\AtYarışı\AtYarışı\obj\x86\Debug\AtYarışı.csprojResolveAssemblyReference.cache
+C:\Users\Now\Documents\C# dili projeler\At Yarışı Oyunu\AtYarışı\AtYarışı\obj\x86\Debug\AtYarışı.exe
+C:\Users\Now\Documents\C# dili projeler\At Yarışı Oyunu\AtYarışı\AtYarışı\obj\x86\Debug\AtYarışı.pdb
