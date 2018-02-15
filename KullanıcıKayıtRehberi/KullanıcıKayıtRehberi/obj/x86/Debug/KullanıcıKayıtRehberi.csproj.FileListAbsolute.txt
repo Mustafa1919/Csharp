@@ -1,0 +1,8 @@
+C:\Users\TED\Documents\1 den n'ye kadar ayıların toplamı\KullanıcıKayıtRehberi\KullanıcıKayıtRehberi\bin\Debug\KullanıcıKayıtRehberi.exe
+C:\Users\TED\Documents\1 den n'ye kadar ayıların toplamı\KullanıcıKayıtRehberi\KullanıcıKayıtRehberi\bin\Debug\KullanıcıKayıtRehberi.pdb
+C:\Users\TED\Documents\1 den n'ye kadar ayıların toplamı\KullanıcıKayıtRehberi\KullanıcıKayıtRehberi\obj\x86\Debug\KullanıcıKayıtRehberi.Form1.resources
+C:\Users\TED\Documents\1 den n'ye kadar ayıların toplamı\KullanıcıKayıtRehberi\KullanıcıKayıtRehberi\obj\x86\Debug\KullanıcıKayıtRehberi.Properties.Resources.resources
+C:\Users\TED\Documents\1 den n'ye kadar ayıların toplamı\KullanıcıKayıtRehberi\KullanıcıKayıtRehberi\obj\x86\Debug\KullanıcıKayıtRehberi.csproj.GenerateResource.Cache
+C:\Users\TED\Documents\1 den n'ye kadar ayıların toplamı\KullanıcıKayıtRehberi\KullanıcıKayıtRehberi\obj\x86\Debug\KullanıcıKayıtRehberi.exe
+C:\Users\TED\Documents\1 den n'ye kadar ayıların toplamı\KullanıcıKayıtRehberi\KullanıcıKayıtRehberi\obj\x86\Debug\KullanıcıKayıtRehberi.pdb
+C:\Users\TED\Documents\1 den n'ye kadar ayıların toplamı\KullanıcıKayıtRehberi\KullanıcıKayıtRehberi\obj\x86\Debug\KullanıcıKayıtRehberi.csprojResolveAssemblyReference.cache
