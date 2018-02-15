@@ -1,0 +1,7 @@
+c:\users\ted\documents\visual studio 2010\Projects\Kronometre\Kronometre\bin\Debug\Kronometre.exe
+c:\users\ted\documents\visual studio 2010\Projects\Kronometre\Kronometre\bin\Debug\Kronometre.pdb
+c:\users\ted\documents\visual studio 2010\Projects\Kronometre\Kronometre\obj\x86\Debug\Kronometre.Form1.resources
+c:\users\ted\documents\visual studio 2010\Projects\Kronometre\Kronometre\obj\x86\Debug\Kronometre.Properties.Resources.resources
+c:\users\ted\documents\visual studio 2010\Projects\Kronometre\Kronometre\obj\x86\Debug\Kronometre.csproj.GenerateResource.Cache
+c:\users\ted\documents\visual studio 2010\Projects\Kronometre\Kronometre\obj\x86\Debug\Kronometre.exe
+c:\users\ted\documents\visual studio 2010\Projects\Kronometre\Kronometre\obj\x86\Debug\Kronometre.pdb
