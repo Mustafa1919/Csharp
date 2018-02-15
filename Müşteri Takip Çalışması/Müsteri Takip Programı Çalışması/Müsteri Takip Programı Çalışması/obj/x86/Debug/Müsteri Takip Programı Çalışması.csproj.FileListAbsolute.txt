@@ -1,0 +1,13 @@
+C:\Users\Ted\Desktop\Müşteri Takip Çalışması\Müsteri Takip Programı Çalışması\Müsteri Takip Programı Çalışması\bin\Debug\Müsteri Takip Programı Çalışması.exe
+C:\Users\Ted\Desktop\Müşteri Takip Çalışması\Müsteri Takip Programı Çalışması\Müsteri Takip Programı Çalışması\bin\Debug\Müsteri Takip Programı Çalışması.pdb
+C:\Users\Ted\Desktop\Müşteri Takip Çalışması\Müsteri Takip Programı Çalışması\Müsteri Takip Programı Çalışması\obj\x86\Debug\Müsteri_Takip_Programı_Çalışması.Form1.resources
+C:\Users\Ted\Desktop\Müşteri Takip Çalışması\Müsteri Takip Programı Çalışması\Müsteri Takip Programı Çalışması\obj\x86\Debug\Müsteri_Takip_Programı_Çalışması.Form2.resources
+C:\Users\Ted\Desktop\Müşteri Takip Çalışması\Müsteri Takip Programı Çalışması\Müsteri Takip Programı Çalışması\obj\x86\Debug\Müsteri_Takip_Programı_Çalışması.Form3.resources
+C:\Users\Ted\Desktop\Müşteri Takip Çalışması\Müsteri Takip Programı Çalışması\Müsteri Takip Programı Çalışması\obj\x86\Debug\Müsteri_Takip_Programı_Çalışması.Properties.Resources.resources
+C:\Users\Ted\Desktop\Müşteri Takip Çalışması\Müsteri Takip Programı Çalışması\Müsteri Takip Programı Çalışması\obj\x86\Debug\Müsteri Takip Programı Çalışması.csproj.GenerateResource.Cache
+C:\Users\Ted\Desktop\Müşteri Takip Çalışması\Müsteri Takip Programı Çalışması\Müsteri Takip Programı Çalışması\obj\x86\Debug\Müsteri Takip Programı Çalışması.exe
+C:\Users\Ted\Desktop\Müşteri Takip Çalışması\Müsteri Takip Programı Çalışması\Müsteri Takip Programı Çalışması\obj\x86\Debug\Müsteri Takip Programı Çalışması.pdb
+C:\Users\Ted\Desktop\Müşteri Takip Çalışması\Müsteri Takip Programı Çalışması\Müsteri Takip Programı Çalışması\obj\x86\Debug\Müsteri_Takip_Programı_Çalışması.Form4.resources
+C:\Users\Ted\Desktop\Müşteri Takip Çalışması\Müsteri Takip Programı Çalışması\Müsteri Takip Programı Çalışması\obj\x86\Debug\Müsteri Takip Programı Çalışması.csprojResolveAssemblyReference.cache
+C:\Users\TED\Documents\Müşteri Takip Çalışması\Müsteri Takip Programı Çalışması\Müsteri Takip Programı Çalışması\obj\x86\Debug\Müsteri Takip Programı Çalışması.exe
+C:\Users\TED\Documents\Müşteri Takip Çalışması\Müsteri Takip Programı Çalışması\Müsteri Takip Programı Çalışması\obj\x86\Debug\Müsteri Takip Programı Çalışması.pdb
